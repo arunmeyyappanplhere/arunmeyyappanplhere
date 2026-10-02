@@ -2,8 +2,6 @@
 
 ### A passionate developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunmeyyappanplhere" alt="arunmeyyappanplhere" /></a> </p>
-
 - 🔭 I'm currently working on **MERN Stack Developer**
 
 - 🌱 I'm currently learning **Data Structure and Algorithms**
